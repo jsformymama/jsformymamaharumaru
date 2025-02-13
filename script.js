@@ -55,8 +55,8 @@
 */
 const messages = [
     "Are you sure?",
-    "Really sure brosent sent😔??",
-    "Are you positive?",
+    "Really sure bro😔??",
+    "Are you for real man?",
     "Mama please >_<",
     "Just think about it! man",
     "If you say no, I will be really sad... and why would you make me sad man☹️💔",
